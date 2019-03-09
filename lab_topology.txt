@@ -1,0 +1,8 @@
+! ############### Lab Setup ##########################
+Vagrant 2.2.3
+VirtualBox (5.2, couldnt make version 6 work)
+  -Arista VMs, image: vEOS-lab-4.20.10M-virtualbox.box
+Editor: Atom for Ubuntu (Laptop) and MACOS (Desktop)
+Repos:
+  -GitLab running on my QNAP NAS
+  -Github
